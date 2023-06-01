@@ -1,0 +1,69 @@
+.body{
+    font-family: 'Poppins', sans-serif;
+}
+.head-text{
+    font-weight: bold;
+    font-size: 22px;
+}
+.navbar-nav .nav-link{
+    margin: 0px 16px;
+}
+.banner-text{
+    font-weight: 600;
+    font-size: 48px;
+}
+.banner-des{
+    font-weight: 300;
+    font-size: 16px;
+}
+
+/* Every moment is precious / part  */
+.package{
+    padding: 20px 60px;
+}
+.op-head{
+    font-weight: 600;
+    font-size: 38px;
+    text-align: center;
+    padding: 50px 0;
+}
+.col{
+    margin-top: 50px;
+}
+.card-three{
+    color: white;
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+    padding: 40px 35px;
+    margin-top: -30px;
+}
+.c-title{
+    font-size: 36px;
+    font-weight: 700;
+}
+.c-title-a{
+    font-weight: 700;
+    font-size: 28px;
+    padding: 20px 0;
+}
+.c-des{
+    color: #848199;
+    font-weight: 400;
+    font-size: 15px;
+}
+.card-body p i{
+    padding-right: 10px;
+}
+.btn-package{
+    color: #3F87F5;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    background: #ffdff3;
+    border-radius: 24px;
+    padding: 15px 60px;
+}
+
+
+
