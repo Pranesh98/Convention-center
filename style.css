@@ -152,7 +152,11 @@
 }
  
 /* footer part  */
-
+footer {
+    background: #0B0D17;
+    padding: 30px;
+    color: white;
+}
 
 
 @media screen and  (max-width: 577px)  {
