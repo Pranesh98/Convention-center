@@ -18,6 +18,15 @@
 }
 
 /* Every moment is precious / part  */
+.moment-left{
+    text-align: center;
+    padding-left: 40px;
+}
+.moment-right{
+    padding-right: 20px;
+}
+
+/* Package  */
 .package{
     padding: 20px 60px;
 }
@@ -35,8 +44,17 @@
     background: #3F87F5;
     box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
     border-radius: 26px;
-    padding: 40px 35px;
-    margin-top: -30px;
+    padding: 50px 35px;
+    margin-top: -50px;
+}
+.btn-package-three{
+    background: #FFFFFF;
+    border-radius: 24px;
+    color: #3F87F5;
+    font-weight: 700;
+    font-size: 15px;
+    padding: 15px 50px;
+    text-decoration: none;
 }
 .c-title{
     font-size: 36px;
@@ -60,10 +78,45 @@
     font-weight: bold;
     text-decoration: none;
     text-align: center;
-    background: #ffdff3;
+    background: #f7e7f1;
     border-radius: 24px;
-    padding: 15px 60px;
+    padding: 15px 50px;
 }
 
-
+/* Client */
+.client{
+    text-align: center;
+    align-items: center;
+}
+.client h1{
+    font-weight: 600;
+    font-size: 38px;
+    margin-top: 60px;
+}
+.client-card{
+    padding: 30px 50px;
+    margin: 20px;
+    align-items: center;
+    background: #FFFFFF;
+    box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.13);
+    border-radius: 5px;
+}
+.client-des{
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0.2px;
+    color: #6C6C6C;
+}
+.client-name{
+    font-weight: 600;
+    font-size: 14px;
+    padding: 8px 0;
+}
+.client-pro{
+    font-weight: 600;
+    font-size: 14px;
+line-height: 24px;
+color: #747474;
+}
 
