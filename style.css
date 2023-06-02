@@ -1,45 +1,53 @@
-.body{
+.body {
     font-family: 'Poppins', sans-serif;
 }
-.head-text{
+
+.head-text {
     font-weight: bold;
     font-size: 22px;
 }
-.navbar-nav .nav-link{
+
+.navbar-nav .nav-link {
     margin: 0px 16px;
 }
-.banner-text{
+
+.banner-text {
     font-weight: 600;
     font-size: 48px;
 }
-.banner-des{
+
+.banner-des {
     font-weight: 300;
     font-size: 16px;
 }
 
 /* Every moment is precious / part  */
-.moment-left{
+.moment-left {
     text-align: center;
     padding-left: 40px;
 }
-.moment-right{
+
+.moment-right {
     padding-right: 20px;
 }
 
 /* Package  */
-.package{
+.package {
     padding: 20px 60px;
 }
-.op-head{
+
+.op-head {
     font-weight: 600;
     font-size: 38px;
     text-align: center;
     padding: 50px 0;
 }
-.col{
+
+.col {
     margin-top: 50px;
 }
-.card-three{
+
+.card-three {
     color: white;
     background: #3F87F5;
     box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
@@ -47,7 +55,8 @@
     padding: 50px 35px;
     margin-top: -50px;
 }
-.btn-package-three{
+
+.btn-package-three {
     background: #FFFFFF;
     border-radius: 24px;
     color: #3F87F5;
@@ -56,24 +65,29 @@
     padding: 15px 50px;
     text-decoration: none;
 }
-.c-title{
+
+.c-title {
     font-size: 36px;
     font-weight: 700;
 }
-.c-title-a{
+
+.c-title-a {
     font-weight: 700;
     font-size: 28px;
     padding: 20px 0;
 }
-.c-des{
+
+.c-des {
     color: #848199;
     font-weight: 400;
     font-size: 15px;
 }
-.card-body p i{
+
+.card-body p i {
     padding-right: 10px;
 }
-.btn-package{
+
+.btn-package {
     color: #3F87F5;
     font-weight: bold;
     text-decoration: none;
@@ -84,16 +98,18 @@
 }
 
 /* Client */
-.client{
+.client {
     text-align: center;
     align-items: center;
 }
-.client h1{
+
+.client h1 {
     font-weight: 600;
     font-size: 38px;
     margin-top: 60px;
 }
-.client-card{
+
+.client-card {
     padding: 30px 50px;
     margin: 20px;
     align-items: center;
@@ -101,22 +117,48 @@
     box-shadow: 0px 12px 30px rgba(0, 0, 0, 0.13);
     border-radius: 5px;
 }
-.client-des{
+
+.client-des {
     font-weight: 400;
     font-size: 16px;
     text-align: center;
     letter-spacing: 0.2px;
     color: #6C6C6C;
 }
-.client-name{
+
+.client-name {
     font-weight: 600;
     font-size: 14px;
     padding: 8px 0;
 }
-.client-pro{
+
+.client-pro {
     font-weight: 600;
     font-size: 14px;
-line-height: 24px;
-color: #747474;
+    line-height: 24px;
+    color: #747474;
 }
+
+/* faq */
+.faq {
+    padding: 0 120px;
+}
+
+.faq h1 {
+    text-align: center;
+    font-weight: 600;
+    font-size: 38px;
+    padding: 80px 0 30px;
+}
+ 
+/* footer part  */
+
+
+
+@media screen and  (max-width: 577px)  {
+    .faq {
+        padding: 20px!important;
+    }
+}
+
 
