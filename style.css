@@ -11,6 +11,10 @@
     margin: 0px 16px;
 }
 
+/* banner  */
+.banner-img{
+    width: 100%;
+}
 .banner-text {
     font-weight: 600;
     font-size: 48px;
@@ -159,8 +163,16 @@ footer {
     margin-top: 70px !important;
 }
 
-
+/* Responsive Design Part */
 @media screen and  (max-width: 577px)  {
+    .banner-img{
+        height: 400px !important;
+        width: auto;
+        align-items: center;
+    }
+    .banner-text{
+        font-size: 30px;
+    }
     .faq {
         padding: 20px!important;
     }
